@@ -15,7 +15,9 @@ I made this "Connected Thing" for three very simple reasons:
 3 - I couldn't find it to buy. I'm lazy, but when there isn't one, I do it.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- Feel free to download and change whatever you want, just don't ask to generate new versions or fix bugs. I don't have time and I did this out of curiosity and fun. Use at your own risk.
+Feel free to download and change whatever you want, just don't ask to generate new versions or fix bugs. I don't have time and I did this out of curiosity and fun. Use at your own risk.
+
+Remember: If you used the code, give credit to the author. Whenever possible, buy him a coffee.
 
 Again: Don't insist, I don't have time bro!
 
