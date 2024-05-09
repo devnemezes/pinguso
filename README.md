@@ -17,6 +17,8 @@ I made this "Connected Thing" for three very simple reasons:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Feel free to download and change whatever you want, just don't ask to generate new versions or fix bugs. I don't have time and I did this out of curiosity and fun. Use at your own risk.
 
+Again: Don't insist, I don't have time bro!
+
 Note: 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The word "Pingusso" in Brazilian Portuguese means: "It is said of the eyes of someone who has drunk too much alcohol or is very sleepy."
@@ -37,3 +39,8 @@ https://macsbug.wordpress.com/2022/08/17/esp32-2432s028/
 
 2 - Your preferred IDE (I used Arduino IDE)
 3 - A little time and patience, you already have the code.
+
+Why and how this thing works:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
