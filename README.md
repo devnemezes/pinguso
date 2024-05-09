@@ -9,7 +9,9 @@ Disclaimer:
 I made this "Connected Thing" for three very simple reasons:
 
 1 - Why not?
+
 2 - I needed to monitor my office connectivity and needed a desk clock.
+
 3 - There was nothing like what I wanted to buy.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
