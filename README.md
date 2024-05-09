@@ -66,6 +66,12 @@ The code is a simple monitoring tool designed to check internet connectivity usi
 - `LovyanGFX` for graphical display.
 - `WiFi` and `ESP32Ping` for network connectivity and ping functionality.
 
+For the love of GOD (whether you believe it or not): 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Don't forget to insert the drive for the display in your project:
+lgfx_ESP32_2432S028.h
+
+https://github.com/lovyan03/LovyanGFX/blob/master/examples/HowToUse/2_user_setting/2_user_setting.ino
 
 This article is fantastic, well, if you don't know Japanese, use Google translator and stop being lazy. You have to want it! 
 
